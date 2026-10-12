@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/social-1280x640.png" alt="send21" width="640"></p>
+
 # send21
 
 Direct. Non-custodial. Yours.
