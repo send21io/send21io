@@ -10,7 +10,6 @@ send21 prepares payment drafts and pay links for BTC, USDC, USDT, and EURC on Bi
 - OpenAPI: https://send21.io/swagger/v1/swagger.json
 - MCP: https://send21.io/mcp
 - llms.txt: https://send21.io/llms.txt
-- X: https://x.com/send21io
 - Contact: info@send21.io
 
 Not a wallet. Not an exchange. Not a payment processor.
