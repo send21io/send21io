@@ -2,7 +2,7 @@
 
 # send21
 
-Crypto pay links and API for people and AI agents.
+[send21](https://send21.io/): Crypto pay links and API for people and AI agents.
 
 send21 prepares payment drafts and pay links for BTC, USDC, USDT, and EURC on Bitcoin, Solana, Ethereum, and Base (no USDT or BTC on Base). You sign in your own wallet. send21 never holds keys, never signs, and never broadcasts.
 
